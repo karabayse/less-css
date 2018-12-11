@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/karabayse/less-css#readme",
   "dependencies": {
-    "less": "^3.9.0"
+    "less": "^3.9.0",
+    "less-watch": "^1.0.0"
   }
 }
