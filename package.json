@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karabayse/less-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karabayse/less-css/issues"
+  },
+  "homepage": "https://github.com/karabayse/less-css#readme",
+  "dependencies": {
+    "less": "^3.9.0"
+  }
 }
